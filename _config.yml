@@ -2,10 +2,8 @@ title: Actual Point
 author: Ing. Diego Vicente et al
 email: vicentel@ing.unlpam.edu.ar
 description: > # this means to ignore newlines until "baseurl:"
-  Sistema de monitoreo inteligente que permite anticiparse a fallas 
-  en grandes máquinas, reduciendo los costos por roturas imprevistas. 
-  Opera por transmisión inalámbrica de energía y datos, sin cables ni 
-  baterías. Uso: monitoreo de temperatura en cojinetes de biela.
+  Sistema de monitoreo inteligente con transmisión inalámbrica de 
+  energía y datos: sin cables ni baterías
 # social links
 twitter_username: your-twitter-handle
 github_username:  your-github-handle
