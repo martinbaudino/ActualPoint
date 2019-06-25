@@ -2,7 +2,7 @@
 
 Actual Point es un sistema inalámbrico para monitoreo de condición de elementos rotantes en máquinas alternativas. Cuenta con una estación base fija (lector) y sensores inalámbricos inteligentes que pueden ser móviles.
 
-<iframe width="100%" src="https://drive.google.com/file/d/1KCQgXsOTsYD9af8p2BCvP6TvXYcFDHPF/preview" frameborder="0" allowfullscreen="true"> </iframe>
+<iframe height="300px" width="100%" src="https://drive.google.com/file/d/1KCQgXsOTsYD9af8p2BCvP6TvXYcFDHPF/preview" frameborder="0" allowfullscreen="true"> </iframe>
 
 ## ¿ Cómo funciona?
 
